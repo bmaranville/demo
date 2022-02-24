@@ -24,7 +24,7 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          jupyter lite build --contents content
+          jupyter lite build --contents content --piplite-wheels reductus-0.9.0-py3-none-any.whl
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
         with:
