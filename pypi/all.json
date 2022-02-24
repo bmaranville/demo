@@ -1,0 +1,54 @@
+{
+  "helpers": {
+    "releases": {
+      "0.1": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "7dceefbb34b5f0bee4894e36ee8e335e",
+            "sha256": "1297df1e7cb53d1b26e844d4609c87398afaa8d88f7ee0d5eabc254142420705"
+          },
+          "downloads": -1,
+          "filename": "helpers-0.1-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "7dceefbb34b5f0bee4894e36ee8e335e",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": null,
+          "size": 1833,
+          "upload_time": "2022-02-24T21:54:46.972571Z",
+          "upload_time_iso_8601": "2022-02-24T21:54:46.972571Z",
+          "url": "./helpers-0.1-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "reductus": {
+    "releases": {
+      "0.9.0": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "1af5ae407f2e83c7613b0ef852616cce",
+            "sha256": "8d09c4e5de5c6330f8952324cb47854a45a72df8d0fe235da22c368f654b770b"
+          },
+          "downloads": -1,
+          "filename": "reductus-0.9.0-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "1af5ae407f2e83c7613b0ef852616cce",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": null,
+          "size": 4416091,
+          "upload_time": "2022-02-24T21:37:08.603965Z",
+          "upload_time_iso_8601": "2022-02-24T21:37:08.603965Z",
+          "url": "./reductus-0.9.0-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}
