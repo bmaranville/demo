@@ -1,24 +1,24 @@
 {
   "helpers": {
     "releases": {
-      "0.1": [
+      "0.1.1": [
         {
           "comment_text": "",
           "digests": {
-            "md5": "7dceefbb34b5f0bee4894e36ee8e335e",
-            "sha256": "1297df1e7cb53d1b26e844d4609c87398afaa8d88f7ee0d5eabc254142420705"
+            "md5": "c3c9b70822bf0e2e8ef26da348a8eea5",
+            "sha256": "d39607568cd96b2da27c660af7b1c5b20aa335629eaff2f8c10fe5635813a25c"
           },
           "downloads": -1,
-          "filename": "helpers-0.1-py3-none-any.whl",
+          "filename": "helpers-0.1.1-py3-none-any.whl",
           "has_sig": false,
-          "md5_digest": "7dceefbb34b5f0bee4894e36ee8e335e",
+          "md5_digest": "c3c9b70822bf0e2e8ef26da348a8eea5",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": null,
-          "size": 1833,
-          "upload_time": "2022-02-24T21:54:46.972571Z",
-          "upload_time_iso_8601": "2022-02-24T21:54:46.972571Z",
-          "url": "./helpers-0.1-py3-none-any.whl",
+          "size": 2127,
+          "upload_time": "2022-02-25T15:11:57.000973Z",
+          "upload_time_iso_8601": "2022-02-25T15:11:57.000973Z",
+          "url": "./helpers-0.1.1-py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
         }
