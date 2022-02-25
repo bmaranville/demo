@@ -14,6 +14,18 @@
     },
     {
       "content": null,
+      "created": "2022-02-25T15:38:36.123831Z",
+      "format": null,
+      "last_modified": "2022-02-25T15:38:29.087670Z",
+      "mimetype": null,
+      "name": "reductus_xray.ipynb",
+      "path": "reductus_xray.ipynb",
+      "size": 68362,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2022-02-25T15:17:14.055483Z",
       "format": null,
       "last_modified": "2022-02-24T21:37:08.591964Z",
@@ -121,9 +133,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-25T15:17:14.063483Z",
+  "created": "2022-02-25T15:38:36.123831Z",
   "format": "json",
-  "last_modified": "2022-02-25T15:17:14.063483Z",
+  "last_modified": "2022-02-25T15:38:36.123831Z",
   "mimetype": null,
   "name": "",
   "path": "",
